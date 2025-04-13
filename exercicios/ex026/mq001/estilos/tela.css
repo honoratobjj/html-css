@@ -36,4 +36,10 @@ header {
     display: block;
     margin: auto;
     padding: 10px;   
+    text-align: justify;
+ }
+
+ article > h2 {
+    text-align: center;
+    padding: 10px;
  }
